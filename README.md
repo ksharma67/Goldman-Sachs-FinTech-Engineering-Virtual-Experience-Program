@@ -1,3 +1,6 @@
+# Goldman Sachs FinTech Engineering Virtual Experience Program Repo
+This repo contains the files for the Goldman Sachs FinTech Engineering Program
+
 ## Overview: Crack leaked password database
 
 Your job is to crack as many passwords as possible with available tools (e.g. use Hashcat). Here are your Task instructions:
